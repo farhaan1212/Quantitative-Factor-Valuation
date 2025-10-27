@@ -24,7 +24,7 @@ In this Jupyter Notebook, I explore the complex and evolving relationship betwee
 * **Pandas**, **NumPy**
 * **Statsmodels** (OLS, RollingOLS, VAR, SARIMAX, Markov Regression, HAC errors)
 * **Arch** (for GARCH models)
-* **Scikit-learn** *(If used)*
+* **Scikit-learn** 
 * **SciPy** (Optimization, Stats distributions)
 * **Matplotlib**
 
